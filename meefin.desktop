@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Name=MeeFin
+Exec=/usr/bin/python /opt/meefin/meefin.py
+Icon=/usr/share/icons/hicolor/80x80/apps/meefin.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+Categories=Finance;Office;
